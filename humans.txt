@@ -1,0 +1,23 @@
+/* Os seres humanos responsáveis */
+/* humanstxt.org */
+
+
+/* Time de Desenvolvedores */
+
+    Criador: Luiz Picolo
+    Contact: luizpicolo@ibest.com.br
+    Twitter: @luizpicolo_
+    Site: www.luizpioclo.com.br
+    From: Brasil
+
+/* Agradecimentos */
+    
+    1 - A toda comunidade Codeigniter - www.codeigniter.com
+    
+
+/* SITE */
+    
+    Último Atualização : 2013/03/01
+    Linguagem: Pt-br
+    Doctype: HTML5
+    IDE: Eclipse  
