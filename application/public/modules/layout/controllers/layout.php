@@ -20,7 +20,7 @@ class Layout extends MX_Controller {
 	public function index()
 	{
 		$data =  array (
-			"titulo" => "video aula -1"
+			"titulo" => "video aula 01"
 		);
 		
 		$this->load->view('layout', $data);
