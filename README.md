@@ -1,4 +1,2 @@
-projeto-site-completo
+Codeigniter BoilerPlate
 =====================
-
-Projeto Site Completo
