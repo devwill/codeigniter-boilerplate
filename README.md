@@ -19,7 +19,7 @@ Framework PHP poderoso, com uma estrutura muito pequena, construída para progra
 
 # Utilização
 
-Para a utilização você pode baixar a aplicação ou clona-lá  para seu repositório.
+Para a utilização você pode [fazer o download](https://github.com/luizpicolo/codeigniter-boilerplate/releases/tag/v0.1) da aplicação ou clona-lá  para seu repositório.
 
     git clone git@github.com:luizpicolo/codeigniter-boilerplate.git
 
