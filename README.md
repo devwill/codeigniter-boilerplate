@@ -1,8 +1,8 @@
 # Codeigniter BoilerPlate
 
-Codeigniter Boilerplate é uma junção dos frameworks: 
+Codeigniter Boilerplate é uma junção das tecnologias: 
 
-- [Codeigniter 2.1.4](http://ellislab.com/codeigniter)
+- [Framework Codeigniter 2.1.4](http://ellislab.com/codeigniter)
 
 - [HTML5 Boilerplate 4.3.0](http://html5boilerplate.com/)
 
@@ -15,7 +15,7 @@ Framework PHP poderoso, com uma estrutura muito pequena, construída para progra
 É um modelo de front-end profissional para a construção de aplicações web velozes, robustas e adaptáveis ​​ou sites criado pela comunidade com as melhores práticas para agilizar o processo de carregamento.
 
 ## Twitter Bootstrap
-É o framework que tornou o desenvolvimento web front-end mais rápido e mais fácil, proporcionando ao desenvolvedor uma base de componentes para um desenvolvimento rápido e elengante.
+É um conjunto de estilos visuais que tornou o desenvolvimento web front-end mais rápido e mais fácil, proporcionando ao desenvolvedor uma base de componentes para um desenvolvimento rápido e elengante.
 
 # Utilização
 
