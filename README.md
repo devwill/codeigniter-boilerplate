@@ -25,4 +25,4 @@ Para a utilização você pode [fazer o download](https://github.com/luizpicolo/
 
 # Licença de Uso
 
-Esta código respeita as licenças incorporadas a cada framework. Porém, para fins de lincença, este mesmo está licenciada sobre a MIT - [http://choosealicense.com/licenses/mit/](http://choosealicense.com/licenses/mit/)
+Esta código respeita as licenças incorporadas a cada framework. Porém, para fins de lincença, este mesmo está licenciada sobre a MIT - [http://luizpicolo.mit-license.org](ttp://luizpicolo.mit-license.org)
